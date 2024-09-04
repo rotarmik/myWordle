@@ -16,8 +16,9 @@ git clone git@github.com:rotarmik/myWordle.git
 cd src
 ```
  ##### в src:
+ ```
  python my_wordle.py
-
+ ```
 ![Запуск игры](https://github.com/rotarmik/myWordle/blob/main/assets/wordle.gif)
 
 #### Требования:
